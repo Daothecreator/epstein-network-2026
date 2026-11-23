@@ -35,3 +35,5 @@ Eliminates artificial barriers between agencies and countries, exposing seven cr
 4. **U.S. Congressional Committees (`Senate Finance` & `House Oversight`) — Packet 04:** Enforces criminal contempt proceedings against Leon Black (`2 U.S.C. § 192`, `1:26-cv-03084-CKK`) to seize concealed NDAs and applies compelled use immunity (`18 U.S.C. § 6002`) to overcome Fifth Amendment refusals.
 5. **Joint Eurojust / MLAT Investigation Team (`UK`, `France`, `Norway`) — Packet 05:** Enables direct cross-border exchange of Swiss (`Edmond de Rothschild`), USVI (`Prytanee LLC`), and Senate Finance wire evidence between London, Paris, and Oslo, bypassing U.S. DOJ bottlenecks.
 6. **ICANN Contractual Compliance, APNIC & Tier-1 Carriers (`Lumen AS3356`, `Telxius AS12956`) — Packet 06:** Seeks RAA de-accreditation of registrar CNOBIN (`IANA 3254`) and upstream BGP route filtering of migrating bulletproof-hosting prefixes.
+
+buymeacoffee.com/zeroazimuth - Davyd Kochuhur/Zero Azimuth Vivifactor
