@@ -1,0 +1,65 @@
+[
+  {
+    "chain_id": "ZA-EP-01",
+    "title": "Chain 1 -- DOJ & Congressional Disclosure Deadlock",
+    "node_a": "DEA OCDETF Fusion Center (May 18, 2015, 69-page Operation 'Chain Reaction' memo NY-NYS-0829 / OFC-TP-15-12392)",
+    "transfer_mechanism": "DAG/Acting AG Todd Blanche blocks DEA transfer to Senate Finance (Mar 18, 2026) + DOJ withholds 3M+ EFTA pages + Leon Black defies House subpoena & withholds NDAs (Sept 3, 2026)",
+    "node_b": "Phang v. Blanche (1:26-cv-01417, D.D.C.) + House unanimous criminal contempt vs. Leon Black (1:26-cv-03084-CKK, Sept 16, 2026) + H.R. 9694 / EFTA II Discharge Petition No. 27 (218 signatures, Nov 11, 2026)",
+    "primary_codes": "EFTA00173953; Pub. L. 119-38; 1:26-cv-01417; 1:26-cv-03084-CKK; H.R. 9694 / S. 5005",
+    "sha256": "2c722907ddfd68a92ad6bfb65ad66aa05b1281b41affe6d061dc4ada44661357"
+  },
+  {
+    "chain_id": "ZA-EP-02",
+    "title": "Chain 2 -- Wall Street Capital -> USVI Tax Arbitrage -> Defense Tech & Diplomacy",
+    "node_a": "Leslie Wexner (~$200M fees, 9 E. 71st St) + Leon Black ($170M total, ~$166M via BofA) + Edmond de Rothschild ($25M, 2015)",
+    "transfer_mechanism": "Financial Trust Co. & Southern Trust Co. ($800M+ revenue 1999-2018, 3.9% effective tax rate vs 38.5%, ~$300M tax savings under USVI EDC) + JPMorgan (134 accts) + Deutsche Bank (40+ accts)",
+    "node_b": "Valar Ventures ($40M -> ~$170M estate value), Carbyne ($1.5M, Ehud Barak / Yoni Koren), IPI ($600K Gratitude America + $130K loan to Rod-Larsen), Bard ($225K, Botstein), Harvard ($9.18M direct + $9.5M indirect)",
+    "primary_codes": "Senate Finance Aug 4, 2026; 22-cv-10904; USVI EDC; IRS Form 990-PF",
+    "sha256": "07cfc7d54c56ef8156f1889f1a58435512038d4e81ee268d029cb265e561de85"
+  },
+  {
+    "chain_id": "ZA-EP-03",
+    "title": "Chain 3 -- Post-Conviction Joint Venture of Sitting U.S. Commerce Secretary",
+    "node_a": "Howard Lutnick / Cantor Fitzgerald (Manhattan neighbor, 11 E. 71st St)",
+    "transfer_mechanism": "Dec 24, 2012 Little St. James family lunch -> +4 days -> Dec 28, 2012 AdFin contract ($350K CVAFH I LLC + $875K Southern Trust Co.) + 2018 Frick expansion correspondence",
+    "node_b": "Sitting U.S. Secretary of Commerce (2025-2026) directly tied to Epstein's primary USVI corporate vehicle post-2008 conviction; Senate & House Oversight testimony (Mar 2026)",
+    "primary_codes": "AdFin Agreement Dec 28, 2012; DOJ EFTA Jan 30, 2026; Congress Mar 2026",
+    "sha256": "f63f3be303f6b099c24d408f395acb2ca0fd08e68175224b4f02c18f3d17c611"
+  },
+  {
+    "chain_id": "ZA-EP-04",
+    "title": "Chain 4 -- Transatlantic State-Secret Leaks & Feb 2026 European Collapse",
+    "node_a": "Peter Mandelson & Andrew Mountbatten-Windsor (2009-2011 UK/EU confidential minutes & trade leaks)",
+    "transfer_mechanism": "Epstein brokerage linking Borge Brende (WEF, 120+ msgs), Thorbjorn Jagland (CoE), Miroslav Lajcak (Slovakia/UNGA), Jack & Caroline Lang (Prytanee LLC, USVI)",
+    "node_b": "Jan 31 Lajcak resigns; Feb 6 Lang PNF probe; Feb 9 Juul resigns; Feb 12 Jagland charged; Feb 13 Sulayem & Feb 16 Pritzker resign; Feb 19-23 UK arrests; Feb 26 Brende WEF exit",
+    "primary_codes": "Thames Valley Police; Met Police; Okokrim; French PNF; WEF Feb 2026",
+    "sha256": "3919e22b2e25254555ff7fed9b56af61e33ca67c1936bd457d8cf340eabc3aac"
+  },
+  {
+    "chain_id": "ZA-EP-05",
+    "title": "Chain 5 -- Defense AI (Palantir), Israeli Intelligence & Transatlantic Lobbying",
+    "node_a": "Peter Thiel (Palantir Chair, $40M Valar) + Ehud Barak (60+ mtgs, Carbyne) + Yoni Koren (IDF Aman, stayed at 301 E. 66th St) + Rafi Shlomo (Israeli UN security at 301 E. 66th St)",
+    "transfer_mechanism": "Epstein introductions (Tom Barrack, Vitaly Churkin, Sergei Belyakov, CIA Dir. William Burns) + 2026 DOJ audio pitching Palantir to Barak + Mandelson Global Counsel UK lobbying",
+    "node_b": "Cross-border intersection of defense-AI capital (Palantir/Founders Fund/Carbyne), Israeli security protection at 301 E. 66th St, and US/UK/Russian diplomatic channels",
+    "primary_codes": "DOJ EFTA Audio 2026; Al Jazeera Feb 19, 2026; WSJ Calendar 2014",
+    "sha256": "69d02be72347ca241bef0423d4d71a13128e3d40ddd9051631f0fd6e7db1c965"
+  },
+  {
+    "chain_id": "ZA-EP-06",
+    "title": "Chain 6 -- Bulletproof Hosting & Trans-Pacific BGP/DNS Shield (Operation Omegaline)",
+    "node_a": "FBI Washington / EDVA / Lumen AS3356 / Chainalysis seizure of virtualine.net (Oct 27, 2026; Virtualine/Omegatech led 2026 BPH illicit crypto inflows: ~44% Russian drug market, ~5% ransomware)",
+    "transfer_mechanism": "Same-day ASN migration (Railnet AS214943 -> Omegatech AS202412) + Hong Kong registrar Cnobin (IANA 3254, RDAP redacted, unsigned DNSSEC) on Tencent AS132203 + PRC DNS (Baidu/China Telecom/Unicom under CNNIC)",
+    "node_b": "Immediate continuity on virtualine.org ('Data is safe') while Western Tier-1 carriers (Lumen AS3356, Telxius AS12956, HE AS6939) maintain direct BGP peering with PRC gateways AS4134/AS4837",
+    "primary_codes": "DOJ USAO-EDVA Oct 27, 2026; TRM Labs; bgp.he.net; APNIC ORG-CINI1-AP",
+    "sha256": "f3c68a7a33f3463d180f4719429e3fd3f89b8b6ae4a2021c9eee7f3440b72522"
+  },
+  {
+    "chain_id": "ZA-EP-07",
+    "title": "Chain 7 -- Academic Patronage, Frontier Science Access & Visa/Admissions Capture",
+    "node_a": "Harvard ($9.18M direct + $9.5M indirect), MIT ($850K + $1.2M Ito), Edge ($600K+), Columbia Dental ($50M gift talks), Santa Fe Inst. ($275K+)",
+    "transfer_mechanism": "Edge & Aug 2, 2015 Palo Alto dinner (Musk, Thiel, Zuckerberg, Hoffman) + Blockstream ($500K) <-> parallel MC2 O-1 visas ($1M+), DEKA/Marcinko hire, Magnani -> Shuliak Columbia admission, Botstein -> Allen Bard admission",
+    "node_b": "Dual-use prestige umbrella converting elite scientific patronage into visa corridors, university admissions capture, and early access to AI/genomics/crypto ventures",
+    "primary_codes": "Harvard OGC 2020; MIT Report 2020; Columbia Feb 11, 2026; 20-cr-00330",
+    "sha256": "2d1e6e72fcc38f8262ad1b81674deb1adbc3bb56fe0c4081dd9f43b776121338"
+  }
+]

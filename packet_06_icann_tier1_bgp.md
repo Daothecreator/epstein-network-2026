@@ -1,0 +1,22 @@
+# STATUTORY REFERRAL PACKET 06 -- ICANN CONTRACTUAL COMPLIANCE TERMINATION & TIER-1 BGP ROUTE-FILTERING NOTICE
+
+## 1. Formal Caption & Addressee Block
+TO: ICANN Contractual Compliance Department (Los Angeles, CA); Asia-Pacific Network Information Centre (APNIC -- Registry Compliance & Abuse Validation); American Registry for Internet Numbers (ARIN); U.S. Senate Committee on Commerce, Science, and Transportation; Lumen Technologies, Inc. (AS3356 Abuse & Peering Desk); Telxius Telecom S.A. (AS12956 Abuse & Peering Desk).
+VENUE: ICANN Contractual Compliance Enforcement; APNIC Policy Enforcement; U.S. Senate Commerce Oversight.
+STATUTORY & CONTRACTUAL AUTHORITY: ICANN 2013 Registrar Accreditation Agreement (RAA Sec. 3.7.7, Sec. 3.18 Abuse Handling, Sec. 5.5 Termination); APNIC Policy Manual (IRT / Abuse Contact Validation); EDVA Operation Omegaline Seizure Warrant (Oct 27, 2026); 18 U.S.C. Sec. 2252A / 1956.
+
+## 2. Jurisdiction, Standing & Non-Preemption Legal Basis
+1. Global Contractual Jurisdiction Over Accredited Registrars: Regardless of domestic U.S. warrant limits outside VeriSign (.NET), every ICANN-accredited registrar -- including Hong Kong-based CNOBIN INFORMATION TECHNOLOGY LIMITED (IANA ID 3254) -- is contractually bound by the ICANN RAA to maintain accurate WHOIS/RDAP records, validate abuse contacts, and respond promptly to documented CSAM and cybercrime notices.
+2. Upstream Tier-1 Peering Responsibility: Western Tier-1 transit carriers (Lumen AS3356, Telxius AS12956) maintain private bilateral peering agreements and acceptable-use policies (AUPs) permitting immediate BGP route filtering of documented bulletproof-hosting prefix migrations.
+
+## 3. Chronological Statement of Incorporated Facts
+1. Operation Omegaline Seizure & Same-Day Evasion (Chain ZA-EP-06, Grade G1): On October 27, 2026, USAO-EDVA and FBI Washington (supported by Polizei Hessen, Politie Midden-Nederland, UK NCA, OverRIPE, Lumen AS3356, and Chainalysis) seized virtualine.net -- the primary storefront of bulletproof host Virtualine Technologies / Omegatech, which led all TRM Labs-tracked BPH providers in 2026 illicit crypto inflows (~44% Russian drug marketplace, ~5% ransomware, plus CSAM and money laundering). Within hours on Oct 27, 2026, operators published 'Data is safe' on backup domain virtualine.org and migrated IP prefixes from Railnet LLC (AS214943) to Omegatech (AS202412) alongside Ghostynetworks (AS205759) / AnonRDP.
+2. Technical Root Cause -- Registrar, PRC DNS & Peering Shield (Part VII & Part XX, Grade G1): (a) Registrar CNOBIN INFORMATION TECHNOLOGY LIMITED (IANA ID 3254, Hong Kong, ordertld.com) strips owner data in RDAP ('Some of the data in this object has been removed'), leaves DNSSEC unsigned, and hosts on Tencent Cloud Computing (AS132203, IP 170.106.150.205 within 170.106.144.0/20); (b) Resilient DNS (dns.bizcn.com / NS5.CNMSN.NET / NS6.CNMSN.NET) spans three PRC backbones: Baidu (AS38365, 240c:4082:ffff:ff01:0:d:0:34a), China Telecom (AS4811/AS4812, 61.172.183.76), and China Unicom (AS4837, 61.240.129.114); (c) PRC registry CNNIC (ORG-CINI1-AP, 240c:4000::/22, AS38335-AS38384) carries an invalid abuse contact ('ipas@cnnic.cn is invalid') in APNIC; and (d) PRC gateways AS4134 and AS4837 peer directly with Western Tier-1s including Lumen (AS3356), Telxius (AS12956 -- MAREA/BRUSA/TELXIUS subsea cables), and Hurricane Electric (AS6939).
+
+## 4. Enumerated Demands for Compulsory Action
+1. ICANN Contractual Compliance: Issue immediate Notice of Breach under RAA Sec. 3.18 and Sec. 5.5 against CNOBIN INFORMATION TECHNOLOGY LIMITED (IANA ID 3254) for systemic RDAP opacity, disabled DNSSEC, and failure to suspend documented CSAM/ransomware bulletproof-hosting domains, initiating de-accreditation if uncured within 21 days.
+2. APNIC Compliance: Enforce mandatory IRT/abuse-contact validation against ORG-CINI1-AP (CNNIC) regarding invalid address ipas@cnnic.cn.
+3. Lumen (AS3356) & Telxius (AS12956): Implement AUP-based BGP route filtering and upstream peering review targeting migrating bulletproof prefixes across Railnet (AS214943), Omegatech (AS202412), and Ghostynetworks (AS205759) associated with virtualine.org.
+
+## 5. Exhibit Schedule & Certification
+Exhibit A: Chain ZA-EP-06 Network Blind-Spot Proof Ledger (Part X); Exhibit B: BGP/ASN/RDAP Telemetry Registry (Part VII & Part XX); Exhibit C: DOJ USAO-EDVA Operation Omegaline Press Release (Oct 27, 2026) & TRM Labs / Chainalysis Inflow Reports.

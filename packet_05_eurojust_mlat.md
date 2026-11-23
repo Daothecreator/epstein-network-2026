@@ -1,0 +1,22 @@
+# STATUTORY REFERRAL PACKET 05 -- TRANSATLANTIC EUROJUST / MLAT JOINT INVESTIGATION TEAM (UK, FRANCE, NORWAY)
+
+## 1. Formal Caption & Addressee Block
+TO: Eurojust (The Hague, Netherlands -- Joint Investigation Team Coordination); UK Metropolitan Police Service, Thames Valley Police, National Crime Agency (NCA), Essex Police & Financial Conduct Authority (FCA); France Parquet National Financier (PNF) & Tribunal judiciaire de Paris; Norway National Authority for Investigation and Prosecution of Economic and Environmental Crime (Okokrim).
+VENUE: Crown Court (UK); Tribunal judiciaire de Paris (France); Oslo District Court (Norway); Swiss Federal Office of Justice (MLAT).
+STATUTORY AUTHORITY: UK Common Law Misconduct in Public Office & Financial Services and Markets Act 2000; French Penal Code Art. 324-1 (Money Laundering) & Code General des Impots Art. 1741 (Tax Fraud); Norwegian Penal Code Sec. 387-388 (Aggravated Corruption); Council of Europe Criminal Law Convention on Corruption; Bilateral MLATs (Switzerland/USVI/EU).
+
+## 2. Jurisdiction, Standing & Non-Preemption Legal Basis
+1. Sovereign European Prosecutorial Independence: Active criminal investigations in the United Kingdom, France, and Norway operate entirely outside the U.S. Department of Justice executive hierarchy and cannot be stayed by U.S. deliberative-process claims or the 2007 SDFL Non-Prosecution Agreement.
+2. Direct Cross-Border Evidence Synchronization: Eurojust Joint Investigation Team (JIT) protocols and direct Switzerland-EU/EEA MLAT channels permit London, Paris, and Oslo prosecutors to pool banking, corporate, and flight evidence directly without routing through blocked Washington executive channels.
+
+## 3. Chronological Statement of Incorporated Facts
+1. Synchronized February 2026 European Prosecutorial Cascade (Chain ZA-EP-04, Grade G1): Following the Jan 30, 2026 DOJ EFTA release: (a) United Kingdom: Thames Valley Police arrested Andrew Mountbatten-Windsor (Feb 19, 2026) over 2010-2011 confidential trade leaks; Metropolitan Police arrested Peter Mandelson (Feb 23, 2026) over 2009-2010 Downing Street/Larry Summers minute leaks and advance notice of the EUR 500B EU bailout; Essex Police opened a Feb 2026 review of private flights carrying unnamed women into London Stansted; (b) Norway: Council of Europe lifted diplomatic immunity for former PM/SecGen Thorbjorn Jagland, charged with aggravated corruption by Okokrim (Feb 12, 2026); Ambassador Mona Juul resigned Feb 9, 2026 and faces Okokrim investigation alongside Terje Rod-Larsen ($130K loan + $600K Gratitude America grants to IPI); WEF President/CEO Borge Brende resigned Feb 26, 2026 after 120+ texts/emails and dinners with Epstein; (c) France: Former Minister Jack Lang (600+ EFTA mentions) resigned IMA Feb 6, 2026 and Caroline Lang resigned SPI as PNF opened tax-fraud/money-laundering proceedings over undeclared USVI joint venture Prytanee LLC and her $5M bequest in The 1953 Trust; Tribunal judiciaire de Paris reopened the Jean-Luc Brunel / 22 Avenue Foch probe in 2026; (d) Slovakia: National Security Adviser & former UNGA President Miroslav Lajcak resigned Jan 31, 2026.
+2. Swiss Private-Banking Bridge (Chain ZA-EP-02, Grade G1): Edmond de Rothschild Group (Geneva, CEO Ariane de Rothschild) executed a $25M advisory contract with Epstein's Southern Trust Company, Inc. in 2015.
+
+## 4. Enumerated Demands for Compulsory Action
+1. Convene a formal Eurojust Joint Investigation Team (UK Met/Thames Valley/Essex Police, France PNF/Paris Court, Norway Okokrim) to cross-index overlapping correspondence, travel logs, and financial transfers across London, Paris, Oslo, Geneva, and St. Thomas.
+2. Issue coordinated MLAT requests directly to Swiss authorities (Edmond de Rothschild $25M Southern Trust contract), USVI corporate registries (Prytanee LLC, Southern Trust Co., The 1953 Trust), and U.S. Senate Finance public wire ledgers (Aug 4, 2026), bypassing U.S. DOJ executive bottlenecks.
+3. Integrate FAA LEAP aircraft records (N212JE Paris LBG flights, N908JE European legs) and Stansted FBO manifests into the reopened Paris Brunel/22 Avenue Foch dossier.
+
+## 5. Exhibit Schedule & Certification
+Exhibit A: Chain ZA-EP-04 Transatlantic Leak & Collapse Ledger (Part X); Exhibit B: Corporate Veil Registry for Prytanee LLC, SCI JEP & Edmond de Rothschild (Part XIII); Exhibit C: FAA LEAP Aircraft Registry & UK/Paris Flight Records (Part XVI); Exhibit D: The 1953 Trust Item 15 (Contrin $5M), Item 33 (Edward Roed Larsen $5M) & Caroline Lang ($5M).

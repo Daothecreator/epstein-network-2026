@@ -1,0 +1,22 @@
+# STATUTORY REFERRAL PACKET 02 -- DEA DIVERSION CONTROL & STATE MEDICAL/PHARMACY BOARD AUDIT DEMAND
+
+## 1. Formal Caption & Addressee Block
+TO: U.S. Drug Enforcement Administration (Diversion Control Division & OCDETF Fusion Center); New York State Department of Health (Office of Professional Medical Conduct & Bureau of Narcotic Enforcement / I-STOP); Florida Department of Health (Board of Medicine & E-FORCSE PDMP); New Mexico Board of Medicine & NM PMP; Ohio State Medical Board; U.S. Virgin Islands Board of Medical Examiners.
+VENUE: Federal Administrative Diversion Audit (21 C.F.R. Part 1304) & Multi-State Professional Licensing Boards.
+STATUTORY AUTHORITY: Controlled Substances Act (21 U.S.C. Sec. 827, 830, 880); DEA ARCOS Reporting Regulations; N.Y. Pub. Health Law Sec. 3343-a (I-STOP); Fla. Stat. Sec. 893.055 (E-FORCSE); NMSA 1978 Sec. 26-1-16.1 (NM PMP).
+
+## 2. Jurisdiction, Standing & Non-Preemption Legal Basis
+1. Independent Regulatory Mandate: DEA Diversion Control authority over Schedule II-IV controlled substances and state medical/pharmacy board licensing jurisdiction operate independently of Main Justice criminal charging discretion and are unaffected by the 2007 SDFL Non-Prosecution Agreement.
+2. Public-Health & Diversion Predicate: Sworn victim testimony in US v. Maxwell (20-cr-00330), Giuffre v. Maxwell (15-cv-07433), and USVI civil suits establishes recurring pre-flight and on-site administration of prescription sedatives and sleep aids to minors and young women, corroborated by DEA/OCDETF Operation 'Chain Reaction' (NY-NYS-0829 / EFTA00173953) referencing illicit drug-linked wire transfers in NYC and USVI.
+
+## 3. Chronological Statement of Incorporated Facts
+1. DEA Operation 'Chain Reaction' Predicate (Grade G1): May 18, 2015 DEA/OCDETF memo OFC-TP-15-12392 (EFTA00173953) identified illegitimate wire transfers tied to illicit drug and/or prostitution activities in USVI and NYC across Epstein and 14 redacted associates, plus 8 CTRs totaling $233,000 (2011-2015).
+2. Verified Clinical Network & Public CMS NPPES Identifiers (Part XVII, Grade G1-G2): (a) Mark B. Landon, M.D. (NPI 1609831262, Columbus, OH -- paid $75K/yr 2001-2005 by Epstein's NYS Strategy Group; June 23, 2026 OSU final report found likely outside-consulting reporting violations); (b) Bruce W. Moskowitz, M.D. (NPI 1386702876, West Palm Beach, FL -- early 2026 DOJ files identify him as Epstein's personal Palm Beach physician arranging care for women in Epstein's orbit); (c) Steven A. Victor, M.D. (NPI 1669489365 / Org 1245409382, NY License 138656 -- 500+ DOJ mentions, treated Jean-Luc Brunel, draft-will loan forgiveness); (d) Thomas J. Magnani, D.D.S. (NPI 1134486434, NY -- personal dentist removed from Columbia Dental Feb 11, 2026 over Karyna Shuliak admission & $50M gift talks); (e) Stephen R. Alexander, Psy.D. (NPI 1760948004, FL License PY3713 -- court-approved sex-addiction psychologist named in 822 DOJ files receiving stock tips & 2011 island invites); (f) Peter Attia, M.D. (NPI 1144596339, CA/TX -- 1,700+ DOJ mentions, resigned CBS News Feb 23, 2026); and (g) Deepak K. Chopra, M.D. (NPI 1821223835, MA/CA -- 4,000+ DOJ mentions, UCSD affiliation ended June 30, 2026).
+
+## 4. Enumerated Demands for Compulsory Action
+1. Execute cross-state PDMP audit queries (NY I-STOP, FL E-FORCSE, NM PMP, USVI PDMP) extracting historical Schedule II-IV benzodiazepine, Z-drug, barbiturate, and opioid prescriptions issued to Jeffrey Epstein, Ghislaine Maxwell, Sarah Kellen, Lesley Groff, Nadia Marcinko, Adriana Ross, Karyna Shuliak, and site managers.
+2. Cross-reference DEA ARCOS wholesale shipment logs into ZIP codes 10021 (Manhattan), 33480 (Palm Beach), 00802 (St. Thomas), and 87056 (Stanley, NM) against American Express corporate billing records and JPMorgan/Deutsche Bank/FirstBank VI pharmacy and clinic disbursements.
+3. Initiate state licensing board reviews of clinical boundary, prescribing, and financial-conflict compliance for all active licensees documented in Part XVII, and compel DEA internal cross-matching against the unredacted 14-associate roster in EFTA00173953.
+
+## 5. Exhibit Schedule & Certification
+Exhibit A: CMS NPPES Provider & Licensing Registry (Part XVII); Exhibit B: DEA/OCDETF Operation 'Chain Reaction' Summary (EFTA00173953); Exhibit C: American Express & Bank Disbursement Targets (Part XI); Exhibit D: Geographic ZIP-Code Site Coordinates (Part XVI).
